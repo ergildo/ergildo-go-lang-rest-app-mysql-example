@@ -1,1 +1,1 @@
-# ergildo-go-lang-rest-app-mysql-example
+#go-lang-rest-app-mysql-example
